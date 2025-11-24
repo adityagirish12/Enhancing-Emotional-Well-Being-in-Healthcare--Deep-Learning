@@ -1,4 +1,4 @@
-# 😃 Enhancing Emotional Well-Being in Healthcare  
+# Enhancing Emotional Well-Being in Healthcare  
 ### *Facial Emotion Classification Using Deep Convolutional Neural Networks (CNNs)*  
 #### By: Aditya Girish Anand
 
